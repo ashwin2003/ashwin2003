@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashwin2003
+- 👋 Hi, I’m Ashwin Jagarwal
 - 👀 I’m interested in anything that includes code.
 - 🌱 I’m sure that I will be an asset to your company.
 - 💞️ I’m looking to collaborate on new ideas which can really make impact.
