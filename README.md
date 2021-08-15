@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ashwin2003
 - 👀 I’m interested in anything that includes code.
-- 🌱 I’m currently learning React, Android Studio.
+- 🌱 I’m sure that I will be an asset to your company.
 - 💞️ I’m looking to collaborate on new ideas which can really make impact.
 - 📫 Reach me via ashwinjagarwal123@gmail.com.
 
