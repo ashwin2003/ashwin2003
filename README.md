@@ -8,7 +8,7 @@
     <img width="20%" src="https://res.cloudinary.com/dgsjlfsoi/image/upload/v1658649019/avatars/Ashwin_cw6d8i.jpg" />
   </p> 
   
-<div size='20px'> Have a look at my Portfolio. <a href="https://willowy-paprenjak-351fe4.netlify.app/" alt="portfolio">Clcik here </a> </div>
+<div size='20px'> Have a look at my Portfolio. <a href="https://magenta-dango-dfc19b.netlify.app/" alt="portfolio">Clcik here </a> </div>
   <h3> My email is :- ashwinjagarwal123@gmail.com </h3>
   
 </div>
