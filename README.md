@@ -3,10 +3,10 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
   <div size='20px'> Hi! My name is Ashwin Jagarwal. Thank You for taking the time to view my GitHub Profile :smile: </div>
-  
+<!--   
   <p align="right">  
     <img width="20%" src="https://res.cloudinary.com/dgsjlfsoi/image/upload/v1658649019/avatars/Ashwin_cw6d8i.jpg" />
-  </p> 
+  </p>  -->
   
 <div size='20px'> Have a look at my Portfolio. <a href="https://magenta-dango-dfc19b.netlify.app/" alt="portfolio">Clcik here </a> </div>
   <h3> My email is :- ashwinjagarwal123@gmail.com </h3>
